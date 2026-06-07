@@ -1,4 +1,4 @@
-# Meeting Follow-Up Automation Workflow
+![Meeting Follow-Up Automation Workflow](images/workflow-diagram.png)
 
 ## Outcome
 
